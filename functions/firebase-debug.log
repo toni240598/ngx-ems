@@ -1,0 +1,15 @@
+[debug] [2017-09-27T12:03:20.618Z] ----------------------------------------------------------------------
+[debug] [2017-09-27T12:03:20.623Z] Command:       /usr/bin/node /usr/bin/firebase deploy
+[debug] [2017-09-27T12:03:20.623Z] CLI Version:   3.12.0
+[debug] [2017-09-27T12:03:20.623Z] Platform:      linux
+[debug] [2017-09-27T12:03:20.623Z] Node Version:  v6.11.3
+[debug] [2017-09-27T12:03:20.624Z] Time:          Wed Sep 27 2017 19:03:20 GMT+0700 (WIB)
+[debug] [2017-09-27T12:03:20.624Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2017-09-27T12:03:20.640Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2017-09-27T12:03:20.640Z] > authorizing via signed-in user
+[debug] [2017-09-27T12:03:20.644Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/ngx-ems  
+ Wed Sep 27 2017 19:03:20 GMT+0700 (WIB)
+[debug] [2017-09-27T12:03:22.476Z] <<< HTTP RESPONSE 200
+[debug] [2017-09-27T12:03:22.477Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/ngx-ems/tokens  
+ Wed Sep 27 2017 19:03:22 GMT+0700 (WIB)
